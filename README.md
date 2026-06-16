@@ -106,20 +106,3 @@ Report Generation
 | Random Forest | 88.5%    |
 | Hybrid System | 94.7%    |
 
----
-
-## 👨‍🎓 Developed By
-
-* Komal Kumari
-
-Department of Computer Applications
-
-Galgotias University
-
----
-
-## 📚 Project Type
-
-Major Project / Research Project
-
-AI-Powered Intelligence for a Healthier Tomorrow ❤️
