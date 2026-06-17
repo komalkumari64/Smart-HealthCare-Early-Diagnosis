@@ -8,3 +8,4 @@ plotly
 pymongo
 bcrypt
 matplotlib
+SpeechRecognition
