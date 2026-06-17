@@ -3,6 +3,7 @@ numpy
 pandas
 scikit-learn
 joblib
-tensorflow
-keras
 pillow
+plotly
+pymongo
+bcrypt
